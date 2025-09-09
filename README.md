@@ -1,5 +1,5 @@
 ## LDA topic modeling notebooks for DIGI405: Texts, Discourses and Data
-(These are for the on-campus version of this course).
+(These are course materials for the on-campus version of DIGI405 at the University of Canterbury).
 
 There are two notebooks here:
 - A 'tiny corpus' set of toy examples to allow students to tinker with LDA parameters and easily see the effects. This notebook was written by Christopher Thomson.
